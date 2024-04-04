@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - merlintang
+  - Antlera
+  - SolidLao
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - SolidLao/GPTuner
+  - couler-proj/couler
+  - TUDB-Labs/multi-lora-fine-tune
+  - intelligent-machine-learning/dlrover
