@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mingjie Tang",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tangrock@gmail.com",
+    "homepage": "https://merlintang.github.io/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,15 +21,24 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "AntGroup - Santa Clara",
+      "startDate": "2022-06-01",
+      "endDate": "2018-10-01",
+    },
+    {
+      "name": "Hortonworks - Santa Clara",
+      "startDate": "2018-10-01",
+      "endDate": "2016-09-01",
+    },
+    {
+      "name": "IBM Research – Almade",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-01",
+    },
+    {
+      "name": "Microsoft Corporation - Redmond",
+      "startDate": "2012-05-01",
+      "endDate": "2012-08-01"
     }
   ],
   "volunteer": [],
