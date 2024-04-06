@@ -19,16 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# <b>Welcome to IDs Lab!</b>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ids_logo.svg" title="lab logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ids_lab_logo_name.svg" title="lab logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<b>IDs Lab (Intelligence and Database System Lab)</b> is from the Department of Computer Science and Engineering at SCU, led by Prof. [Mingjie Tang](https://merlintang.github.io/index.html).
+# <b>Welcome to IDs Lab!</b>
 
+<b>IDs Lab (Intelligence and Database System Lab)</b> is from the Department of Computer Science at SCU, led by Prof. [Mingjie Tang](https://merlintang.github.io/index.html).
 
 The team at IDs Lab focus on the following research areas:
 
@@ -43,4 +42,3 @@ We are seeking Ph.D. students who are passionate about the areas above. We are a
         {% include figure.html path="assets/img/about/people.jpg" title="lab people" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
