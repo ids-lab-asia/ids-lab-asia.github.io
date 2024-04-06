@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ids_lab_icon.svg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ids_lab_logo_icon_black.svg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ids-lab-scu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: ids-lab # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Intelligence & Database System (IDs) Lab focus on build state of art AI and database systems. # description of your blog
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -263,8 +263,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['AI', 'DB', 'System'] # these tags will be displayed on the front page of your blog
+display_categories: ['tech-report'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
