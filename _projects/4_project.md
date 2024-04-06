@@ -2,7 +2,7 @@
 layout: page
 title: DLRover
 description: An Automatic Distributed Deep Learning System
-img:
+img: assets/img/ids_lab_logo_icon_purple.svg
 importance: 4
 category: Industry
 ---

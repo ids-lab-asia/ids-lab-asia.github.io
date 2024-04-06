@@ -20,7 +20,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
@@ -41,7 +41,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
@@ -56,8 +56,11 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+<p><br></p>
+
 
 ## GitHub Repositories
+<hr>
 
 {% if site.data.repositories.github_repos %}
 <div class="d-flex flex-wrap list-style-none gutter-condensed mb-2 js-pinned-items-reorder-list">
