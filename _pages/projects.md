@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Research, Industry]
 horizontal: false
 ---
 
@@ -56,3 +56,13 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+## GitHub Repositories
+
+{% if site.data.repositories.github_repos %}
+<div class="d-flex flex-wrap list-style-none gutter-condensed mb-2 js-pinned-items-reorder-list">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.html repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
