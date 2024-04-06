@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: DLRover
+description: An Automatic Distributed Deep Learning System
 img:
-importance: 3
-category: fun
+importance: 4
+category: Industry
 ---
 
 Every project has a beautiful feature showcase page.

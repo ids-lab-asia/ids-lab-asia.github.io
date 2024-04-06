@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: m-LoRA
+description: Efficient LLM Model Fine-Tune via Multi-LoRA Optimization
+img:
+importance: 4
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.

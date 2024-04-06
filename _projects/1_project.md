@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+title: GPTuner
+description: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization
+img:
+importance: 4
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.
