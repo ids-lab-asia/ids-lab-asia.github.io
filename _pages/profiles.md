@@ -15,7 +15,7 @@ horizontal: false
     <div class="container">
         <div class="row">
             <div class="col-sm-3 mt-1 mt-md-1 col-md-3 col-4 col-lg-2">
-                {% include figure.html path="assets/img/ids_lab_icon.svg" title="mingjie tang" class="img-fluid rounded
+                {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="mingjie tang" class="img-fluid rounded
                 z-depth-1" width="130px" %}
             </div>
             <div class="col-sm-9 mt-1 mt-md-1 col-md-9 col-8 col-lg-8">
@@ -33,7 +33,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -49,7 +49,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -72,7 +72,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -92,7 +92,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -108,7 +108,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -131,7 +131,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -147,7 +147,7 @@ horizontal: false
             <div class="col-lg-6 mt-1 mb-4 mt-md-1">
                 <div class="row">
                     <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                        {% include figure.html path="assets/img/ids_lab_icon.svg" title="lab people" class="img-fluid
+                        {% include figure.html path="assets/img/ids_lab_logo_icon_purple.svg" title="lab people" class="img-fluid
                         rounded z-depth-1" width="130px" %}
                     </div>
                     <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
