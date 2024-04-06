@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://en.scu.edu.cn/'>@SCU</a>. 65 Kehua N Rd, Arcadia Plaza A2201, Chengdu Sichuan 610022
 
