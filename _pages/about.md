@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ids_lab_logo_name.svg" title="lab logo" class="img-fluid rounded z-depth-1" %}
+        <img src="assets/img/ids_lab_logo_name.svg" title="lab logo" class="img-fluid">
     </div>
 </div>
 
