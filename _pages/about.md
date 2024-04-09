@@ -35,10 +35,10 @@ The team at IDs Lab focus on the following research areas:
 - Databases Systems
 - Artificial Intelligence Security
 
-We are seeking Ph.D. students who are passionate about the areas above. We are also open to working with Masters and undergrad students. You are welcome to contact Prof. Tang for details.
+We are seeking Ph.D. students who are passionate about the areas above. We are also open to working with Masters and undergraduate students. You are welcome to contact [Prof. Tang](https://merlintang.github.io/index.html) for details.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/about/people.jpg" title="lab people" class="img-fluid rounded z-depth-1" %}
+        <img src="assets/img/about/people.jpg" title="lab people" class="img-fluid rounded z-depth-1">
     </div>
 </div>
