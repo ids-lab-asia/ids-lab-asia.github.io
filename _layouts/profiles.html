@@ -3,45 +3,43 @@ layout: page
 ---
 
 <!-- about.html -->
-      <div class="post">
-
-        <article>
-          {% if page.profiles -%}
-          {% for profile in page.profiles %}
-          <hr>
-          <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if profile.image %}
-              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
-
-              {% if profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
-
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=profile.image -%}
-            {% endif -%}
-            {%- if profile.more_info %}
-            <div class="more-info">
-              {{ profile.more_info }}
+<div class="post">
+  <article>
+    {% if page.profiles -%}
+    {%- if page.display_categories %}
+    <!-- Display categorized people -->
+    {%- for category in page.display_categories %}
+    <h2 class="category">{{ category }}</h2>    <hr>
+    {%- assign categorized_profiles = page.profiles | where: "category", category -%}
+    {%- assign profiles = categorized_profiles | sort: "importance" %}
+    <!-- Generate cards for each project -->
+    {% for profile in profiles %}
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+          <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+              {%- if profile.image %}
+              {%- assign profile_image_path = profile.image | prepend: '/assets/img/' -%}
+              {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              <img src="{{ profile_image_path }}" class="img-fluid z-depth-1 rounded" width="130px" alt="{{ profile.image }}">
+              {%- endif %}
             </div>
-            {%- endif %}
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+              {% if profile.content -%}
+              {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+              {{ profile_content | markdownify }}
+              {%- else -%}
+              {{ content }}
+              {%- endif %}
+            </div>
           </div>
-
-          <div class="clearfix">
-            {% if profile.content -%}
-            {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-            {%- else -%}
-            {{ content }}
-            {%- endif %}
-          </div>
-
-          {% endfor %}
-          {%- endif %}
-        </article>
-
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% endfor %}
+    {%- endif %}
+    {%- endif %}
+  </article>
 </div>
