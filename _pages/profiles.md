@@ -18,6 +18,9 @@ profiles:
   - image: profiles/tingfeng_lan_avatar.jpg
     content: team/tingfeng_lan.md
     category: Ph.D. Students
+  - image: profiles/mikecovlee_avatar.jpg
+    content: team/dengchun_li.md
+    category: Master's Students
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
     category: Master's Students
