@@ -21,9 +21,9 @@ profiles:
   - image: profiles/mikecovlee_avatar.jpg
     content: team/dengchun_li.md
     category: Master's Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Master's Students
+  - image: profiles/yinghao_tang_avatar.jpg
+    content: team/yinghao_tang.md
+    category: Alumni
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
     category: Undergraduate Students
