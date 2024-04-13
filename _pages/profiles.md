@@ -36,8 +36,8 @@ profiles:
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
     category: Undergraduate Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
+  - image: profiles/chen_zhang_avatar.jpg
+    content: team/chen_zhang.md
     category: Undergraduate Students
   - image: profiles/haoyang_yin_avatar.png
     content: team/haoyang_yin.md
