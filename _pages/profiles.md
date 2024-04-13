@@ -28,6 +28,9 @@ profiles:
   - image: profiles/ziling_huang_avatar.jpg
     content: team/ziling_huang.md
     category: Master's Students
+  - image: profiles/yunjian_lv_avatar.jpg
+    content: team/yunjian_lv.md
+    category: Master's Students
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
     category: Undergraduate Students
@@ -40,8 +43,8 @@ profiles:
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
     category: Undergraduate Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
+  - image: profiles/haoyang_yin_avatar.png
+    content: team/haoyang_yin.md
     category: Undergraduate Students
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
