@@ -46,6 +46,9 @@ profiles:
   - image: profiles/haoyang_yin_avatar.png
     content: team/haoyang_yin.md
     category: Undergraduate Students
+  - image: profiles/yibo_wang_avatar.png
+    content: team/yibo_wang.md
+    category: Undergraduate Students
   - image: ids_lab_logo_icon_purple.svg
     content: team/tingfeng_lan.md
     category: Alumni
