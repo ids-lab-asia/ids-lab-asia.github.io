@@ -28,6 +28,9 @@ profiles:
   - image: profiles/ziling_huang_avatar.jpg
     content: team/ziling_huang.md
     category: Master's Students
+  - image: profiles/xu_yan_avatar.jpg
+    content: team/xu_yan.md
+    category: Master's Students
   - image: profiles/yunjian_lv_avatar.jpg
     content: team/yunjian_lv.md
     category: Master's Students
