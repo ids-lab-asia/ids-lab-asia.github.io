@@ -18,7 +18,7 @@ profiles:
     category: Lab Director
   - image: profiles/tingfeng_lan_avatar.jpg
     content: team/tingfeng_lan.md
-    category: Ph.D. Students
+    category: Alumni
   - image: profiles/mikecovlee_avatar.jpg
     content: team/dengchun_li.md
     category: Master's Students
@@ -37,15 +37,6 @@ profiles:
   - image: profiles/qingsong_cai_avatar.jpg
     content: team/qingsong_cai.md
     category: Master's Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Undergraduate Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Undergraduate Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Undergraduate Students
   - image: profiles/chen_zhang_avatar.jpg
     content: team/chen_zhang.md
     category: Undergraduate Students
@@ -55,20 +46,8 @@ profiles:
   - image: profiles/yibo_wang_avatar.png
     content: team/yibo_wang.md
     category: Undergraduate Students
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Alumni
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Alumni
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Alumni
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
-    category: Alumni
-  - image: ids_lab_logo_icon_purple.svg
-    content: team/tingfeng_lan.md
+  - image: profiles/ljl.jpg
+    content: team/jiale_lao.md
     category: Alumni
 ---
 
