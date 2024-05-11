@@ -49,7 +49,7 @@ profiles:
   - image: profiles/ljl.jpg
     content: team/jiale_lao.md
     category: Alumni
-  - image: profiles/sponge_fei.png
+  - image: profiles/sponge_fei.jpg
     content: team/yufei.md
     category: Undergraduate Students
 ---
