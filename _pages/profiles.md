@@ -49,5 +49,8 @@ profiles:
   - image: profiles/ljl.jpg
     content: team/jiale_lao.md
     category: Alumni
+  - image: profiles/sponge_fei.png
+    content: team/yufei.md
+    category: Undergraduate Students
 ---
 

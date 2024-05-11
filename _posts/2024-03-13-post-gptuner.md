@@ -30,5 +30,7 @@ Overview of GPTuner.
 </div>
 </div>
 </div>
+<h4 id="abstract">More About GPTuner</h4>
+<p>For more information about GPTuner, please visit Jiale Lao' s blog <a href="https://solidlao.github.io/post/llm-db-tuning/">[From DB-BERT to DB-BART and Beyond]</a>, where he makes full introduction of the project background and introduce DB-Bert, which is also a masterpiece in the filed of knob-tuning and inspires GPTuner's design.</p>
 <p><br></p>
 </article>
