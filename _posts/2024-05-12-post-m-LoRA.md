@@ -1,6 +1,6 @@
 ---
 layout: post
-title: m-LoRA: How to Efficiently Fine-Tune Dozens of Large Language Models on a Single GPU
+title: m-LoRA - How to Efficiently Fine-Tune Dozens of Large Language Models on a Single GPU
 date: 2024-05-12 22:56:00-0400
 description: 
 tags: AI System
