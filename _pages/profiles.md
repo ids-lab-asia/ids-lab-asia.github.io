@@ -52,5 +52,8 @@ profiles:
   - image: profiles/sponge_fei.jpg
     content: team/yufei.md
     category: Undergraduate Students
+  - image: profiles/Xiaoda_Wang.jpg
+    content: team/xiaoda_wang.md
+    category: Alumni
 ---
 
