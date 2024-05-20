@@ -30,5 +30,7 @@ Overview of GPTuner.
 </div>
 </div>
 </div>
+<h4 id="more">More About BadPart</h4>
+<p>Please refer to lzy' s blog <a href="https://6zhaoyi.github.io/post/badpart/">[Adversarial Attack Causing Error Beyond Wrong Classification]</a> to get more information about BadPart, where he makes full introduction of the project background and introduce the impacts it may arouse.</p>
 <p><br></p>
 </article>
