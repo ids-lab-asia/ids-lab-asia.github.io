@@ -55,5 +55,8 @@ profiles:
   - image: profiles/Xiaoda_Wang.jpg
     content: team/xiaoda_wang.md
     category: Alumni
+  - image: profiles/tengda_guo.jpg
+    content: team/tengda_guo.md
+    category: Undergraduate Students
 ---
 
