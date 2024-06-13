@@ -6,7 +6,7 @@ title: IDs Lab | SCU # the website title (if blank, full name will be used inste
 first_name: IDs Lab
 middle_name: |
 last_name: Artificial Intelligence + Database + System
-email: you@example.com
+email: tangrock@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is IDs Lab which aims to build next-gen system for artificial intelligence and database applications.
 footer_text: >
