@@ -6,7 +6,7 @@ img: assets/img/ids_lab_logo_icon_purple.svg
 importance: 4
 category: Research
 ---
-# m-LoRA: Efficient LLM Model Fine-Tune via Multi-LoRA Optimization
+## m-LoRA: Efficient LLM Model Fine-Tune via Multi-LoRA Optimization
 [![](https://github.com/TUDB-Labs/multi-lora-fine-tune/actions/workflows/python-test-main.yml/badge.svg)](https://github.com/TUDB-Labs/multi-lora-fine-tune/actions/workflows/python-test-main.yml)
 [![](https://img.shields.io/github/stars/TUDB-Labs/multi-lora-fine-tune?logo=GitHub)](https://github.com/TUDB-Labs/multi-lora-fine-tune/stargazers)
 [![](https://img.shields.io/github/license/TUDB-Labs/multi-lora-fine-tune)](http://www.apache.org/licenses/LICENSE-2.0)
