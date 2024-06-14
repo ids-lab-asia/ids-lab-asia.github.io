@@ -24,9 +24,9 @@ m-LoRA (a.k.a Multi-Lora Fine-Tune) is an open-source framework for fine-tuning 
 
 This picture shows the basic principle of LoRA and Multi-LoRA.
 
-<div align="center"><img src="./assets/img/projects/mlora/m-LoRA.png" width=70%"></div>
+<div align="center"><img src="/assets/img/projects/mlora/m-LoRA.png" width=70%"></div>
 The system overview of m-LoRA is as follows.
-<div align="center"><img src="./assets/img/projects/mlora/system_overview.png" width="100%"></div>
+<div align="center"><img src="/assets/img/projects/mlora/system_overview.png" width="100%"></div>
 
 m-LoRA requires [PyTorch](https://pytorch.org/) and [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit) compatible GPUs.
 
@@ -52,12 +52,12 @@ Baseline: We utilized the widely adopted [Alpaca-LoRA](https://github.com/tloen/
 |          m-LoRA          |  9.46h  | 674.58 token/s |
 
 We conducted four identical fine-tuning jobs with same dataset and same hyper-parameters, incorporating two baselines and m-LoRA. During the experimental process, we collected the completion times for each task in the baseline methods and calculated the time taken by the slowest task as the *Training Latency*. As shown in Table, m-LoRA exhibits lower *Training Latency* compared to both baseline methods. Specifically, m-LoRA is 9.99% faster than *Baseline@Alpaca-Seq* and 3.92% faster than *Baseline@Alpaca-Parallel*.
-<div align="center"><img src="./assets/img/projects/mlora/throughput_compare.png" width="100%"></div>
+<div align="center"><img src="/assets/img/projects/mlora/throughput_compare.png" width="100%"></div>
 
 
 
 #### Video Memory Usage
-<div align="center"><img src="./assets/img/projects/mlora/GPU_memory_usage.png" width="100%"></div>
+<div align="center"><img src="/assets/img/projects/mlora/GPU_memory_usage.png" width="100%"></div>
 
 We conducted several fine-tuning jobs with same dataset and `batch_size = {2,4, 6, 8}`, incorporating  *Baseline@Alpaca-Parallel* and m-LoRA. 
 

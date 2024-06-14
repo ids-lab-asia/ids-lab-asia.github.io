@@ -61,5 +61,8 @@ profiles:
   - image: profiles/tengda_guo.jpg
     content: team/tengda_guo.md
     category: Undergraduate Students
+  - image: profiles/mayinzi.jpeg
+    content: team/yinzi_ma.md
+    category: Alumni
 ---
 
