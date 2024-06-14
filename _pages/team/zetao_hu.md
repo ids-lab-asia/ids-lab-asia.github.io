@@ -1,7 +1,6 @@
 #### [Zetao Hu](https://github.com/Vinkle-hzt)
 
-🎉 Admitted by alibaba**** !!!
+🎉 Admitted by **alibaba** !!!
 
 **research interests:**
--  LLM training
--  inference System
+-  LLM training/inference System
