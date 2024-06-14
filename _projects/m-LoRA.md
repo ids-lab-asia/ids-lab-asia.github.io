@@ -57,7 +57,7 @@ We conducted four identical fine-tuning jobs with same dataset and same hyper-pa
 
 
 #### Video Memory Usage
-<div align="center"><img src="./assets/img/projects/mlora/GPU_memory_usage.png" width="100%"></div>
+<div align="center"><img src="/assets/img/projects/mlora/GPU_memory_usage.png" width="100%"></div>
 
 We conducted several fine-tuning jobs with same dataset and `batch_size = {2,4, 6, 8}`, incorporating  *Baseline@Alpaca-Parallel* and m-LoRA. 
 
