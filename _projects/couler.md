@@ -2,7 +2,7 @@
 layout: page
 title: Couler
 description: Unified Machine Learning Workflow Optimization in Cloud
-img: assets/img/ids_lab_logo_icon_purple.svg
+img: assets/img/projects/couler/couler.png
 importance: 4
 category: Industry
 ---
