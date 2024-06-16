@@ -24,7 +24,7 @@ m-LoRA (a.k.a Multi-Lora Fine-Tune) is an open-source framework for fine-tuning 
 
 This picture shows the basic principle of LoRA and Multi-LoRA.
 
-<div align="center"><img src="/assets/img/projects/mlora/m-LoRA.png" width=70%"></div>
+<div align="center"><img src="/assets/img/projects/mlora/m-LoRA.png" width="70%"></div>
 The system overview of m-LoRA is as follows.
 <div align="center"><img src="/assets/img/projects/mlora/system_overview.png" width="100%"></div>
 
