@@ -31,9 +31,6 @@ profiles:
   - image: profiles/xu_yan_avatar.jpg
     content: team/xu_yan.md
     category: Master's Students
-  - image: profiles/yunjian_lv_avatar.jpg
-    content: team/yunjian_lv.md
-    category: Master's Students
   - image: profiles/qingsong_cai_avatar.jpg
     content: team/qingsong_cai.md
     category: Master's Students
