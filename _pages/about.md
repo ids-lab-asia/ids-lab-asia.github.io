@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://en.scu.edu.cn/'>@SCU</a>. 65 Kehua N Rd, Arcadia Plaza A2201, Chengdu Sichuan 610022
+subtitle: <a href='https://en.scu.edu.cn/'>@SCU</a>. Chengdu Sichuan 610022
 
 # profile:
 #   align: right
@@ -31,11 +31,11 @@ social: true  # includes social icons at the bottom of the page
 
 The team at IDs Lab focus on the following research areas:
 
-- Machine Learning Systems
+- Machine Learning and Deep Learning Systems
 - Databases Systems
 - Artificial Intelligence Security
 
-We are seeking Ph.D. students who are passionate about the areas above. We are also open to working with Masters and undergraduate students. You are welcome to contact [Prof. Tang](https://merlintang.github.io/index.html) for details.
+We are seeking Ph.D. and Master students who (a) really like to do research, (b) own project experience in system (DB or AI), (c) strong background in AI algorithm. We are also open to working with undergraduate students. You are welcome to contact [Prof. Tang](https://merlintang.github.io/index.html) with email for details.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
