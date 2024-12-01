@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ATTACK AS DEFENSE: RUN-TIME BACKDOOR  IMPLANTATION FOR IMAGE CONTENT PROTECTION
-date: 2024-03-06 09:56:00-0400
+date: 2024-10-07 09:56:00-0400
 description: 
 tags: AI Security
 categories: tech-report
 related_posts: false
-related_publications: 
+related_publications: zhc2024attack_as_defense
 ---
 
 
