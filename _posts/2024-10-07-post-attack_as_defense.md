@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ATTACK AS DEFENSE: RUN-TIME BACKDOOR  IMPLANTATION FOR IMAGE CONTENT PROTECTION
+title: ATTACK AS DEFENSE: RUN-TIME BACKDOOR IMPLANTATION FOR IMAGE CONTENT PROTECTION
 date: 2024-10-07 09:56:00-0400
-description: 
-tags: AI Security
+description: Protecting sensitive image content using runtime backdoor implantation.
+tags: [AI Security, Image Protection]
 categories: tech-report
 related_posts: false
-related_publications: zhc2024attack_as_defense
+related_publications: zhc2025attack_as_defense
 ---
 
 
