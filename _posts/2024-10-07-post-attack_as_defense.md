@@ -31,6 +31,7 @@ Overview
 
 </div>
 </div>
+<p></p>
 <p>SOME EXAMPLES</p>
 <div class="col-12 col-sm-12 col-md-9 col-lg-8 mx-auto d-block">
 {% include figure.html path="assets/img/publications/examples_ATTACK_AS_DEFNESE/EXAMPLE1.png" title="post_couler" class="img-fluid rounded z-depth-1" %}
