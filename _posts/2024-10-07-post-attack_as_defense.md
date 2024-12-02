@@ -17,7 +17,7 @@ related_publications: zhc2025attack_as_defense
 Haichuan Zhang, Meiyu Lin, Zhaoyi Liu, Renyuan Li, Zhiyuan Cheng, Carl Yang, Mingjie Tang
 </div>
 
-<p>——Under review as a conference paper at ICLR 2025
+<p>
 </p>
 <p><br></p>
 <h4 id="abstract">Abstract</h4>
