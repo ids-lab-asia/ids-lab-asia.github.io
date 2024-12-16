@@ -58,5 +58,8 @@ profiles:
   - image: profiles/zelonghuang.jpg
     content: team/zelong_huang.md
     category: Master's Students
+  - image: profiles/salma_filali.jpg
+    content: team/salma_filali.md
+    category: Undergraduate Students
 ---
 
