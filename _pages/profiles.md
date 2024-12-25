@@ -31,9 +31,6 @@ profiles:
   - image: profiles/qingsong_cai_avatar.jpg
     content: team/qingsong_cai.md
     category: Master's Students
-  - image: profiles/chen_zhang_avatar.jpg
-    content: team/chen_zhang.md
-    category: Undergraduate Students
   - image: profiles/yibo_wang_avatar.png
     content: team/yibo_wang.md
     category: Undergraduate Students
