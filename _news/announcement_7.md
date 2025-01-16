@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Zhengmao, Dengchun, Zetao, Tingfen on the acceptance of mLoRA to VLDB’25!
+Congrats to Zhengmao, Dengchun, Zetao, Tingfen on the acceptance of [mLoRA](https://github.com/TUDB-Labs/mLoRA)  to <b>VLDB’25!</b>
