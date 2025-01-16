@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats GPTuner in VLDB'24 to be selected as <b>SIGMOD Research Highlight Awards 2024 </b>
+Congrats GPTuner in VLDB'24 to be selected as <b>SIGMOD Research Highlight Awards 2024! </b>
