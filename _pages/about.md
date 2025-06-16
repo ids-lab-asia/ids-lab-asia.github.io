@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 
 # <b>Welcome to IDs Lab!</b>
 
-<b>IDs Lab (Intelligence and Database System Lab)</b> is from the Department of Computer Science at SCU, led by Prof. [Mingjie Tang](https://merlintang.github.io/index.html).
+<b>IDs Lab (Intelligence and Database System Lab)</b> is from the Department of Computer Science at SCU, led by Prof. Tang).
 
 The team at IDs Lab focus on the following research areas:
 
@@ -35,7 +35,7 @@ The team at IDs Lab focus on the following research areas:
 - Databases Systems
 - Artificial Intelligence Security
 
-We are seeking Ph.D. and Master students who (a) really like to do research, (b) own project experience in system (DB or AI), (c) strong background in AI algorithm. We are also open to working with undergraduate students. You are welcome to contact [Prof. Tang](https://merlintang.github.io/index.html) with email for details.
+We are seeking Ph.D. and Master students who (a) really like to do research, (b) own project experience in system (DB or AI), (c) strong background in AI algorithm. We are also open to working with undergraduate students. You are welcome to contact Prof. Tang with email for details.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
