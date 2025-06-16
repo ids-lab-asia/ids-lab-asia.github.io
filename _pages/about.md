@@ -27,12 +27,12 @@ social: true  # includes social icons at the bottom of the page
 
 # <b>Welcome to IDs Lab!</b>
 
-<b>IDs Lab (Intelligence and Database System Lab)</b> is from the Department of Computer Science at SCU, led by Prof. Tang).
+<b>IDs Lab (Intelligence and Database System Lab)</b> is from the Department of Computer Science at SCU, led by Prof. Tang.
 
 The team at IDs Lab focus on the following research areas:
 
-- Machine Learning and Deep Learning Systems
-- Databases Systems
+- Distirbuted Deep Learning Systems
+- Databases Systems (DB4AI and AI4DB)
 - Artificial Intelligence Security
 
 We are seeking Ph.D. and Master students who (a) really like to do research, (b) own project experience in system (DB or AI), (c) strong background in AI algorithm. We are also open to working with undergraduate students. You are welcome to contact Prof. Tang with email for details.
