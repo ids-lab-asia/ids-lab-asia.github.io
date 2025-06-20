@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CloneShield: A Framework for Universal Perturbation Against Zero-Shot Voice Cloning
+title: "CloneShield: A Framework for Universal Perturbation Against Zero-Shot Voice Cloning"
 date: 2025-05-15 10:00:00-0400
 description:
 tags: AI SECURITY
