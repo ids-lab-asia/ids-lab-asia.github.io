@@ -21,7 +21,7 @@ profiles:
     category: Alumni
   - image: profiles/mikecovlee_avatar.jpg
     content: team/dengchun_li.md
-    category: Master's Students
+    category: Alumni
   - image: profiles/yinghao_tang_avatar.jpg
     content: team/yinghao_tang.md
     category: Alumni
@@ -33,13 +33,13 @@ profiles:
     category: Master's Students
   - image: profiles/yibo_wang_avatar.png
     content: team/yibo_wang.md
-    category: Undergraduate Students
+    category: Alumni
   - image: profiles/ljl.jpg
     content: team/jiale_lao.md
     category: Alumni
   - image: profiles/sponge_fei.jpg
     content: team/yufei.md
-    category: Undergraduate Students
+    category: Alumni
   - image: profiles/Xiaoda_Wang.jpg
     content: team/xiaoda_wang.md
     category: Alumni
@@ -48,7 +48,7 @@ profiles:
     category: Alumni
   - image: profiles/tengda_guo.jpg
     content: team/tengda_guo.md
-    category: Undergraduate Students
+    category: Alumni
   - image: profiles/mayinzi.jpeg
     content: team/yinzi_ma.md
     category: Alumni
@@ -57,6 +57,6 @@ profiles:
     category: Master's Students
   - image: profiles/salma_filali.jpg
     content: team/salma_filali.md
-    category: Undergraduate Students
+    category: Alumni
 ---
 
