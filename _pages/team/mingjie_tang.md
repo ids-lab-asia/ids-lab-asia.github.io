@@ -1,4 +1,3 @@
-#### [Dr. Mingjie Tang](https://merlintang.github.io/)
+#### [Dr. Michael Tang]
 
-Professor of the CS at SCU  
-Email: tangrock at gmail.com
+Professor of the CS at SCU
