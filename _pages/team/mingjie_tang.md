@@ -1,3 +1,3 @@
-#### [Dr. Michael Tang]
+#### Dr. Michael Tang
 
-Professor of the CS at SCU
+Professor of the CS at SCU.
