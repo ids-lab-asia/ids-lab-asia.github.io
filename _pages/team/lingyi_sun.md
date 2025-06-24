@@ -1,4 +1,4 @@
-#### [LingYi Sun]
+#### Lingyi Sun
 
 E-Mail: yi1wonderful@gmail.com
 
