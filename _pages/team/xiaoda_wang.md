@@ -1,6 +1,6 @@
 #### [Xiaoda Wang](https://ignite-abd.github.io/)
 
-🎉 Admitted by **Emory University** !!!
+🎉 PhD at **Emory University** !!!
 
 **research interests:**
 - Data Mining

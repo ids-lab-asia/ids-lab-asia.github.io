@@ -1,6 +1,6 @@
 #### [Yinghao Tang](https://antlera.github.io/)
 
-🎉 Admitted by **ZJU** !!!
+🎉 PhD **ZJU** !!!
 
 **research interests:**
 - large language model

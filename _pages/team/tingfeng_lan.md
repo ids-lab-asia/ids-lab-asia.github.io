@@ -1,6 +1,6 @@
 #### [Tingfeng Lan](https://antlera.github.io/)
 
-🎉 Admitted by **UVA** !!!
+🎉 PhD at **UVA** !!!
 
 **research interests:**
 - machine learning systems
