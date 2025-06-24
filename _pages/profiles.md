@@ -58,5 +58,8 @@ profiles:
   - image: profiles/salma_filali.jpg
     content: team/salma_filali.md
     category: Alumni
+  - image: profiles/hanxu_yan.jpg
+    content: team/hanxu_yan.md
+    category: Undergraduate Students
 ---
 
