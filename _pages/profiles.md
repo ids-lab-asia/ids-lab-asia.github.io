@@ -58,5 +58,9 @@ profiles:
   - image: profiles/salma_filali.jpg
     content: team/salma_filali.md
     category: Alumni
+  - image: profiles/yuwen_li.jpg
+    content: team/yuwen_li.md
+    category: Master's Students
 ---
+
 
