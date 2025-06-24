@@ -61,5 +61,18 @@ profiles:
   - image: profiles/Tianyu_Shi.jpg
     content: team/Tianyu_shi.md
     category: Undergraduate Students
+  - image: profiles/yuyang_song.jpg
+    content: team/yuyang_song.md
+    category: Undergraduate Students
+  - image: profiles/yuwen_li.jpg
+    content: team/yuwen_li.md
+    category: Master's Students
+  - image: profiles/sun_avatar.jpg
+    content: team/lingyi_sun.md
+    category: Master's Students
+  - image: profiles/hanxu_yan.jpg
+    content: team/hanxu_yan.md
+    category: Undergraduate Students
 ---
+
 
