@@ -67,6 +67,9 @@ profiles:
   - image: profiles/sun_avatar.jpg
     content: team/lingyi_sun.md
     category: Master's Students
+  - image: profiles/hanxu_yan.jpg
+    content: team/hanxu_yan.md
+    category: Undergraduate Students
 ---
 
 

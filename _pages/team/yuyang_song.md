@@ -1,4 +1,4 @@
-#### [Yuyang Song](https://yuyang-song.github.io/yuyangsong.github.io/)
+#### [Yuyang Song](https://yuyang-song.github.io/)
 
 E-Mail: yuyangsong004@gmail.com
 
