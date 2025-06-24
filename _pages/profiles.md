@@ -58,5 +58,8 @@ profiles:
   - image: profiles/salma_filali.jpg
     content: team/salma_filali.md
     category: Alumni
+  - image: profiles/Tianyu_Shi.jpg
+    content: team/Tianyu_shi.md
+    category: Undergraduate Students
 ---
 
