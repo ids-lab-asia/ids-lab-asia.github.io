@@ -76,6 +76,9 @@ profiles:
   - image: profiles/meiyu_lin_avatar.jpg
     content: team/meiyu_lin.md
     category: Master's Students
+  - image: profiles/jingqi_tian.jpg
+    content: team/jingqi_tian.md
+    category: Alumni    
 ---
 
 
