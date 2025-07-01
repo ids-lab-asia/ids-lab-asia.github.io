@@ -1,7 +1,9 @@
-#### [yubo yangma]
+#### [yubo yangma](https://github.com/YaYiQiu)
 
-- **Email**: 13759433204@163.com  
-- **GitHub**: https://github.com/YaYiQiu
-- **Research Interests**:  
-  - AI Infra  
-  - Multimodal Learning  
+E-Mail: 13759433204@163.com
+
+GitHub: https://github.com/YaYiQiu
+
+**research interests:**
+- Multimodal Learning
+- AI Infra
