@@ -75,7 +75,7 @@ profiles:
     category: Undergraduate Students
   - image: profiles/yubo_yangma.jpg
     content: team/yubo_yangma.md
-    category: Master's Students
+    category: Undergraduate Students
   - image: profiles/meiyu_lin_avatar.jpg
     content: team/meiyu_lin.md
     category: Master's Students
