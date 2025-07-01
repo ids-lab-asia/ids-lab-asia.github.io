@@ -73,6 +73,9 @@ profiles:
   - image: profiles/hanxu_yan.jpg
     content: team/hanxu_yan.md
     category: Undergraduate Students
+  - image: profiles/yubo_yangma.jpg
+    content: team/Yubo_Yangma.md
+    category: Master's Students
 ---
 
 
