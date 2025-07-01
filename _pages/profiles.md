@@ -74,8 +74,14 @@ profiles:
     content: team/hanxu_yan.md
     category: Undergraduate Students
   - image: profiles/yubo_yangma.jpg
-    content: team/Yubo_Yangma.md
+    content: team/yubo_yangma.md
     category: Master's Students
+  - image: profiles/meiyu_lin_avatar.jpg
+    content: team/meiyu_lin.md
+    category: Master's Students
+  - image: profiles/jingqi_tian.jpg
+    content: team/jingqi_tian.md
+    category: Alumni    
 ---
 
 
