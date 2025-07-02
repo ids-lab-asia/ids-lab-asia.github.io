@@ -82,6 +82,9 @@ profiles:
   - image: profiles/jingqi_tian.jpg
     content: team/jingqi_tian.md
     category: Alumni    
+  - image: profiles/lzy.jpg
+    content: team/zhaoyi_liu.md
+    category: Alumni
 ---
 
 
