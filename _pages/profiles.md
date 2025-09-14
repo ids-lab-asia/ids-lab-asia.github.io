@@ -52,6 +52,9 @@ profiles:
   - image: profiles/mayinzi.jpeg
     content: team/yinzi_ma.md
     category: Alumni
+  - image: profiles/huahao_hu.jpg
+    content: team/huahao_hu.md
+    category: Master's Students
   - image: profiles/zelonghuang.jpg
     content: team/zelong_huang.md
     category: Master's Students
