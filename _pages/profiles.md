@@ -82,7 +82,7 @@ profiles:
   - image: profiles/meiyu_lin_avatar.jpg
     content: team/meiyu_lin.md
     category: Master's Students
-  - image: profiles/meiyu_lin_avatar.jpg
+  - image: profiles/renyuan_li.jpg
     content: team/renyuan_li.md
     category: Master's Students
   - image: profiles/jingqi_tian.jpg
