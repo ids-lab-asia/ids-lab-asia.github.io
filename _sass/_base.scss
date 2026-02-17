@@ -19,6 +19,10 @@ strong {
   color: var(--global-text-color);
 }
 
+p {
+  margin-bottom: 1.5rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -218,6 +222,8 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .navbar .dropdown-menu {
@@ -407,7 +413,7 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 14px;
 
   .container {
     color: var(--global-footer-text-color);
@@ -429,7 +435,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-size: 0.9rem;
+  font-size: 14px;
 }
 
 // CV
@@ -648,9 +654,10 @@ footer.sticky-bottom {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    margin-top: 2rem;
+    margin-top: 2.5rem;
     margin-bottom: -2rem;
     text-align: right;
+    font-weight: 600;
   }
 
   ol.bibliography {
@@ -659,7 +666,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
 
       .preview {
         width: 100%;

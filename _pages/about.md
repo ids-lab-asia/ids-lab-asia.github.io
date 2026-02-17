@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <img src="assets/img/ids_lab_logo_name.svg" title="lab logo" class="img-fluid">
     </div>
 </div>
@@ -37,8 +37,8 @@ The team at IDs Lab focus on the following research areas:
 
 We are seeking Ph.D. and Master students who (a) really like to do research, (b) own project experience in system (DB or AI), (c) strong background in AI algorithm. We are also open to working with undergraduate students. You are welcome to contact Prof. Tang with email for details.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
         <img src="assets/img/about/people.jpg" title="lab people" class="img-fluid rounded z-depth-1">
     </div>
 </div>
