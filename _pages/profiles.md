@@ -91,6 +91,9 @@ profiles:
   - image: profiles/lzy.jpg
     content: team/zhaoyi_liu.md
     category: Alumni
+  - image: profiles/hao_tang.jpg
+    content: team/hao_tang.md
+    category: Master's Students
 ---
 
 
