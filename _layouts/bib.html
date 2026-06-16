@@ -186,6 +186,11 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
+          {%- if entry.award %}
+          <div class="award">
+            <p>{{ entry.award }}</p>
+          </div>
+          {%- endif %}
           {% if site.badges %}
           <div class="badges">
             {%- if site.badges.altmetric_badge %}
