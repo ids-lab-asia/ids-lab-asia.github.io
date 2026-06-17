@@ -85,6 +85,9 @@ profiles:
   - image: profiles/renyuan_li.jpg
     content: team/renyuan_li.md
     category: Master's Students
+  - image: profiles/chenxuan_li.jpg
+    content: team/chenxuan_li.md
+    category: Master's Students
   - image: profiles/jingqi_tian.jpg
     content: team/jingqi_tian.md
     category: Alumni    
