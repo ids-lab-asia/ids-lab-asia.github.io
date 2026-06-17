@@ -116,6 +116,65 @@ blockquote {
   }
 }
 
+// About page section titles
+
+h2.section-title {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.72rem !important;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light) !important;
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+
+  &::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background-color: var(--global-divider-color);
+  }
+
+  a {
+    color: inherit !important;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color) !important;
+      text-decoration: none;
+    }
+  }
+}
+
+// News table
+
+.news {
+  .table {
+    th {
+      font-weight: 400;
+      font-size: 0.8rem;
+      color: var(--global-text-color-light);
+      white-space: nowrap;
+      padding-right: 1.5rem;
+      border: none;
+    }
+
+    td {
+      padding-left: 0;
+      border: none;
+    }
+
+    tr {
+      &:hover {
+        background-color: transparent;
+      }
+    }
+  }
+}
+
 // Math
 
 .equation {

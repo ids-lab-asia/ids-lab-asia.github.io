@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
 
 The team at IDs Lab focus on the following research areas:
 
-- Distirbuted Deep Learning Systems
+- Distributed Deep Learning Systems
 - Databases Systems (DB4AI and AI4DB)
 - Artificial Intelligence Security
 
