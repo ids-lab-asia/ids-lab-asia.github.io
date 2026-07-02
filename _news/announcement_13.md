@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to our graduating students on their next chapter! <b>Yuyang Song</b> (PhD @ UT Austin), <b>Meiyu Lin</b> (PhD @ Institute of Science Tokyo), <b>Zhibo Liang</b> (Master @ University of Washington), <b>Naizheng Wang</b> (Master @ University of Michigan, Ann Arbor), and <b>Yueling Liu</b> (PhD @ SJTU). Wishing you all the best in your new journeys! 🎉
+Congrats to our graduating students on their next chapter! <b>Yuyang Song</b> (PhD @ UT Austin), <b>Meiyu Lin</b> (PhD @ Institute of Science Tokyo), <b>Zhibo Liang</b> (Master @ University of Washington), <b>Naizheng Wang</b> (Master @ University of Michigan, Ann Arbor), <b>Yueling Liu</b> (PhD @ SJTU), and <b>Tianze Hu</b> (MSCS @ NYU). Wishing you all the best in your new journeys! 🎉
