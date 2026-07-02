@@ -1,5 +1,7 @@
 #### [Yuyang Song](https://yuyang-song.github.io/)
 
+🎉 PhD at **UT Austin** !!!
+
 E-Mail: yuyangsong004@gmail.com
 
 GitHub: https://github.com/Yuyang-Song

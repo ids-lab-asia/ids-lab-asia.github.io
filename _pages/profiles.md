@@ -66,7 +66,7 @@ profiles:
     category: Undergraduate Students
   - image: profiles/yuyang_song.jpg
     content: team/yuyang_song.md
-    category: Undergraduate Students
+    category: Alumni
   - image: profiles/yuwen_li.jpg
     content: team/yuwen_li.md
     category: Master's Students
@@ -81,7 +81,7 @@ profiles:
     category: Undergraduate Students
   - image: profiles/meiyu_lin_avatar.jpg
     content: team/meiyu_lin.md
-    category: Master's Students
+    category: Alumni
   - image: profiles/renyuan_li.jpg
     content: team/renyuan_li.md
     category: Master's Students
@@ -97,6 +97,15 @@ profiles:
   - image: profiles/hao_tang.jpg
     content: team/hao_tang.md
     category: Master's Students
+  - image: profiles/zhibo_liang_avatar.svg
+    content: team/zhibo_liang.md
+    category: Alumni
+  - image: profiles/naizheng_wang_avatar.svg
+    content: team/naizheng_wang.md
+    category: Alumni
+  - image: profiles/yueling_liu_avatar.svg
+    content: team/yueling_liu.md
+    category: Alumni
 ---
 
 

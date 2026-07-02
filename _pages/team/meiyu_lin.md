@@ -1,7 +1,8 @@
 #### [Meiyu Lin](https://github.com/isoflurane)
 
-E-Mail: linmeiyusc@gmail.com
+🎉 PhD at **Institute of Science Tokyo** !!!
 
+E-Mail: linmeiyusc@gmail.com
 
 **research interests:**
 - AI Security
