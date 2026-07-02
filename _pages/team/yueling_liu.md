@@ -1,6 +1,6 @@
 #### Yueling Liu
 
-🎉 PhD at **SJTU** !!!
+🎉 PhD at **SJTU SAI** !!!
 
 **research interests:**
 - LLM Agents
