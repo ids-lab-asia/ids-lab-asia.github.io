@@ -106,6 +106,9 @@ profiles:
   - image: profiles/yueling_liu_avatar.svg
     content: team/yueling_liu.md
     category: Alumni
+  - image: profiles/tianze_hu_avatar.svg
+    content: team/tianze_hu.md
+    category: Alumni
 ---
 
 
