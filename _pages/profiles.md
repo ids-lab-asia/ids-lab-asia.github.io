@@ -112,4 +112,7 @@ profiles:
   - image: profiles/tianze_hu_avatar.svg
     content: team/tianze_hu.md
     category: Alumni
+  - image: profiles/chen_zhang.jpg
+    content: team/chen_zhang.md
+    category: Alumni
 ---
