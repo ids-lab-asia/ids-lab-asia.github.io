@@ -16,6 +16,9 @@ profiles:
   - image: ids_lab_logo_icon_purple.svg
     content: team/mingjie_tang.md
     category: Lab Director
+  - image: profiles/xingyu_li_avatar.jpg
+    content: team/xingyu_li.md
+    category: Alumni
   - image: profiles/tingfeng_lan_avatar.jpg
     content: team/tingfeng_lan.md
     category: Alumni
@@ -110,5 +113,3 @@ profiles:
     content: team/tianze_hu.md
     category: Alumni
 ---
-
-
