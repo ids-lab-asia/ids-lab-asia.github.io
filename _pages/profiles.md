@@ -106,7 +106,7 @@ profiles:
   - image: profiles/naizheng_wang_avatar.svg
     content: team/naizheng_wang.md
     category: Alumni
-  - image: profiles/yueling_liu_avatar.svg
+  - image: profiles/yueling_liu_avatar.JPG
     content: team/yueling_liu.md
     category: Alumni
   - image: profiles/tianze_hu_avatar.svg
