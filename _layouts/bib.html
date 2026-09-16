@@ -1,7 +1,8 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
+      {%- assign entry_venue = entry.abbr | default: "Other" | strip -%}
+      <div class="row pub-entry" data-year="{{ entry.year }}" data-venue="{{ entry_venue }}">
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
           {%- if entry.preview -%}
             {% if entry.preview contains '://' -%}

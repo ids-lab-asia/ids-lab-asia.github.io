@@ -693,6 +693,97 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  // Year / venue filter chips
+  .pub-filters {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  .pub-filter-group {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+  }
+
+  .pub-filter-label {
+    flex-shrink: 0;
+    width: 4.5rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--global-text-color-light);
+  }
+
+  .pub-filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.35rem;
+  }
+
+  .pub-chip {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.3rem;
+    padding: 0.15rem 0.6rem;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    color: var(--global-text-color);
+    font-size: 0.78rem;
+    font-weight: 500;
+    line-height: 1.4;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      border-color: var(--global-divider-color);
+      color: var(--global-theme-color);
+    }
+
+    &.active {
+      background: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+      color: var(--global-bg-color);
+
+      .pub-chip-count {
+        color: inherit;
+        opacity: 0.8;
+      }
+    }
+  }
+
+  .pub-chip-count {
+    font-size: 0.68rem;
+    font-weight: 400;
+    color: var(--global-text-color-light);
+  }
+
+  .pub-chip-more {
+    color: var(--global-text-color-light);
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .pub-hidden {
+    display: none !important;
+  }
+
+  // Scroll reveal: fade in + slide up when entering the viewport
+  .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+
+    &.revealed {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
